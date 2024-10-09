@@ -10,8 +10,6 @@ npm install -g download-todesktop-assets
 
 ## Usage
 
-The CLI can be executed using `ts-node` or by building the project and running the compiled JavaScript files. Additionally, you can set it up for global usage.
-
 ### Command-Line Arguments
 
 - `--appId` (string, **required**): The Application ID.
