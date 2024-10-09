@@ -1,6 +1,6 @@
 # Download ToDesktop Assets
 
-**`download-todesktop-assets`** is a CLI tool designed to automate the process of downloading build assets from ToDesktop. By providing an `appId` and `buildId`, the CLI fetches JSON metadata from specified URLs, parses the asset information, and downloads all associated files. Additionally, it supports filtering downloads based on platform flags (`--mac`, `--linux`, `--windows`) and organizes certain assets into designated subdirectories for better file management.
+**`download-todesktop-assets`** is a CLI tool to automate the process of downloading build assets from ToDesktop. By providing an `appId` and `buildId`, the CLI fetches JSON metadata from specified URLs, parses the asset information, and downloads all associated files. Additionally, it supports filtering downloads based on platform flags (`--mac`, `--linux`, `--windows`) and organizes certain assets into designated subdirectories for better file management.
 
 ## Installation
 
